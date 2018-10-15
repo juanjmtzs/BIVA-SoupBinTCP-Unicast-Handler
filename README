@@ -1,4 +1,4 @@
-# BIVA-MoldUDP-Multicast-Handler
+# BIVA-SoupBinTCP-Multicast-Handler
 
 To RUN: java -jar $myJar $user $pass $ip $port $seq $folder &
 
